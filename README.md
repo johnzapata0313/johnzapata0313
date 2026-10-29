@@ -2,7 +2,7 @@
 
 Engineering creative solutions to complex problems, one commit at a time.
 
-- Software Engineer at [Resilient Coders](https://www.resilientcoders.org/)
+- Software Engineer
 - I’m currently working with clients crafting web solutions that turn potential into customers for growing a business
 - I’m looking to collaborate on large projects with a team, providing my insight in any way I can!
 - Reach me [here](mailto:John.zapata0313@gmail.com) 
